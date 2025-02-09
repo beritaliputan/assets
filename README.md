@@ -1,5 +1,5 @@
-```Welcome to Berita Liputan! 👋
-```Berita Liputan adalah website sebuah berita nasional dan internasional dengan informasi mendalam dan faktual tentang peristiwa terkini, disajikan melalui riset dan wawancara langsung di lapangan.
+`Welcome to Berita Liputan! 👋`
+`Berita Liputan adalah website sebuah berita nasional dan internasional dengan informasi mendalam dan faktual tentang peristiwa terkini, disajikan melalui riset dan wawancara langsung di lapangan.`
 
 ## 🌐 Media Sosial
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]()
