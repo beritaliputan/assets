@@ -1,4 +1,4 @@
-`Welcome to Berita Liputan! 👋`
+`Welcome to Berita Liputan! 👋`<br/>
 `Berita Liputan adalah website sebuah berita nasional dan internasional dengan informasi mendalam dan faktual tentang peristiwa terkini, disajikan melalui riset dan wawancara langsung di lapangan.`
 
 ## 🌐 Media Sosial
@@ -10,7 +10,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white)]()
 
 ## 🎨 Website
-```beritaterkini.onrender.com
+`beritaterkini.onrender.com`
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beritaliputan&show_icons=true&hide_title=true)
 <hr/>
