@@ -10,7 +10,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white)]()
 
 ## 🎨 Website
-`beritaterkini.onrender.com`
+[beritaliputan.net](https://beritaliputan.net/)
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beritaliputan&show_icons=true&hide_title=true)
 <hr/>
